@@ -11,6 +11,10 @@ swool request to a psr7 http request, and then the psr7 response back to a swool
 we feed into the converter, but you could easily swap this out with any Psr17 compliant object.
 
 
+### Swoole Version
+This codebase was built/tested against Swoole 4.6.7 with PHP 8.0 on Ubuntu 20.04.
+
+
 ## Run / Deploy
 Navigate to the `/src` directory and run:
 

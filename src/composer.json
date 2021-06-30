@@ -1,0 +1,8 @@
+{
+    "require": {
+        "slim/slim": "^4.8",
+        "psr/http-message": "^1.0",
+        "ilexn/swoole-convent-psr7": "^0.2.0",
+        "nyholm/psr7": "^1.4"
+    }
+}
